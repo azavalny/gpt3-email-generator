@@ -1,6 +1,6 @@
 # Generating Emails with GPT3
 
-[![](https://img.youtube.com/vi/vStMuo0zMAo/0.jpg)](https://www.youtube.com/watch?v=vStMuo0zMAo)
+[![](https://img.youtube.com/vi/oJWBQKrF4uM/0.jpg)](https://www.youtube.com/watch?v=oJWBQKrF4uM)
 
 ## Business Benefits and Usecases:
 * Time saved writing medium-long sized emails
