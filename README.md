@@ -2,6 +2,10 @@
 
 [![](https://img.youtube.com/vi/oJWBQKrF4uM/0.jpg)](https://www.youtube.com/watch?v=oJWBQKrF4uM)
 
+## How to run this:
+* Install streamlit by using **pip3 install streamlit**
+* In the folder, open a terminal and type **streamlit run emailapp.py**
+
 ## Business Benefits and Usecases:
 * Time saved writing medium-long sized emails
 * A greater amount of Mental Energy is conserved to do more of the tasks that matter
