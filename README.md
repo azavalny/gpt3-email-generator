@@ -2,8 +2,11 @@
 
 [![](https://img.youtube.com/vi/oJWBQKrF4uM/0.jpg)](https://www.youtube.com/watch?v=oJWBQKrF4uM)
 
+# 
+
+
 ## How to run this:
-* Clone this repo
+* Clone & Download this repo
 * Install streamlit by using **pip3 install streamlit**
 * In the project folder, open a terminal and type **streamlit run emailapp.py**
 
