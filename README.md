@@ -21,3 +21,4 @@
 * Creating interactive Deep-Learning Web Applications using [**Streamlit**](https://streamlit.io/)
 * Implementing OpenAI's GPT Language Process models in a Business application
 * Automatically writing emails in Gmail using hyperlinks
+* Deploying & Configuring Web apps with Heroku
