@@ -2,7 +2,9 @@
 
 [![](https://img.youtube.com/vi/oJWBQKrF4uM/0.jpg)](https://www.youtube.com/watch?v=oJWBQKrF4uM)
 
+
 # [Click Me to Demo]( https://gpt3-email-generator.herokuapp.com/)
+Warning: The Demo functions, but won't generate emails unless I put in the API Key in the ml_backend.py file
 
 _____
 ## How to run this on your own computer:
