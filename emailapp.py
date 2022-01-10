@@ -14,7 +14,7 @@ st.markdown("""
 
 ## Business Benefits and Usecases:
 * Time saved writing medium-long sized emails
-* A greater amount of Mental Energy is conserved to do more of the tasks that matter
+* Mental Energy is conserved
 * Anxiety of writing a **professional sounding** email (or email with any writing style) is removed as the GPT3 Language model used is trained from a variety of many different internet sources
 
 """)
