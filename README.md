@@ -18,7 +18,7 @@ _____
 * Mental energy is conserved
 
 ## Features:
-* Creating interactive Deep-Learning Web Applications using [**Streamlit**](https://streamlit.io/)
-* Implementing an OpenAI GPT Language model in a Business application
-* Deploying & Configuring Web apps with Heroku
+* Implemented the OpenAI GPT-3 Davinci Language model
+* Deploying & Configuring Web apps with Heroku CLI
+* Interactive & clean front-end using using [**Streamlit**](https://streamlit.io/)
 * Automatically generating emails in Gmail using hyperlinks
