@@ -5,4 +5,4 @@ echo "\
 port = $PORT\n\
 enableCORS = false\n\
 headless = true\n\
-" > ~/.streamlit/config.toml
+" > ~/GPT/gpt3-email-generator/config.toml
