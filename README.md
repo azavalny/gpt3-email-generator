@@ -2,9 +2,6 @@
 
 [![](https://img.youtube.com/vi/oJWBQKrF4uM/0.jpg)](https://www.youtube.com/watch?v=oJWBQKrF4uM)
 
-
-# [Working Demo]( https://email-generation.herokuapp.com/)
-
 _____
 ## How to run this on your local computer:
 * Sign up for an [OpenAI account](https://beta.openai.com/signup) and put your private key in **ml_backend.py**
